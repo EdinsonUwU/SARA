@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class ModuloBaseConfig(AppConfig):
+class ModuloSaraConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'modulo_base'
+    name = 'modulo_sara'
